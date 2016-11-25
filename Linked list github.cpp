@@ -155,9 +155,9 @@ int main()
     insertion_at_last(10);
     insertion_at_last(20);
     insertion_at_first(1);
-    //deletation_at_last();
+    deletation_at_last();
     insertion_at_any_index(5,4);
-    //deletation_at_first();
+    deletation_at_first();
     delete_any_position(2);
     traverse();
 }
